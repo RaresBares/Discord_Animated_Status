@@ -1,0 +1,6 @@
+C:\Users\Rares\RiderProjects\Discord_Animated_Status\Discord_Animated_Status\obj\Debug\Discord_Animated_Status.csprojAssemblyReference.cache
+C:\Users\Rares\RiderProjects\Discord_Animated_Status\Discord_Animated_Status\obj\Debug\Discord_Animated_Status.csproj.CoreCompileInputs.cache
+C:\Users\Rares\RiderProjects\Discord_Animated_Status\Discord_Animated_Status\bin\Debug\Discord_Animated_Status.exe
+C:\Users\Rares\RiderProjects\Discord_Animated_Status\Discord_Animated_Status\bin\Debug\Discord_Animated_Status.pdb
+C:\Users\Rares\RiderProjects\Discord_Animated_Status\Discord_Animated_Status\obj\Debug\Discord_Animated_Status.exe
+C:\Users\Rares\RiderProjects\Discord_Animated_Status\Discord_Animated_Status\obj\Debug\Discord_Animated_Status.pdb
